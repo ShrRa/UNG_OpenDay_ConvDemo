@@ -3,11 +3,11 @@ file should do the trick and display the interface at the bottom of the notebook
 from the command line (don't forget to activate the virtual environment that has all the dependencies installed). The demo contains three tabs:
 1) For launching convolution with one of three kernels
 2) For convolving the image patch by patch
-3) For combining three convolutions into a single RGB image.
+3) To combine three convolutions into a single RGB image.
 
 ### Requirements
-panel
-cv2
-PIL
-bokeh
-matplotlib
+- panel
+- cv2
+- PIL
+- bokeh
+- matplotlib
